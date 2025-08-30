@@ -127,6 +127,17 @@
   - Luxury shopping mall + dining complex.  
   - Observatory deck offers panoramic city views.  
 
+- **Elephant Mountain (Xiangshan)**  
+  - One of the best short hikes in Taipei, famous for skyline & **Taipei 101** views.  
+  - Ideal for **sunrise** and **sunset** photography.  
+  - **Suggested route**:  
+    - Take a bus to the **Yongchun Gang Trailhead** (near Yanzi Temple). A **water dispenser** is available at the entrance.  
+    - Stop at **Yongchun Gang Park** to rest and take photos.  
+    - Continue along Xiangshan Trail:  
+      - More challenging route → **Chaoran Pavilion** & the iconic **Six Boulders** photo spot.  
+      - Easier option → take the shorter **Yixiantian (One Line Sky)** path.  
+    - Descent: Exit at **Lingyun Temple** and catch a bus or walk to **Xiangshan MRT Station**.  
+
 ---
 
 ## 🏺 Museums & History

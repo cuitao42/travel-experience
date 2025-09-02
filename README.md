@@ -1,9 +1,9 @@
 [阅读中文版](./README.cn.md)
 
-# 🌍 Travel Experience
+# 🌍 Travel Guide
 
-Welcome to my **Travel Experience** project!  
-This repository is a personal log of the countries I’ve visited, including stories, photos, and cultural notes.
+Welcome to my **Travel Guide** project!  
+This repository is a personal log of the countries I’ve visited, including guides, stories, photos, and cultural notes.
 
 ## ✈️ Countries
 
